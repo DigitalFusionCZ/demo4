@@ -1,0 +1,70 @@
+{
+  "generated_at": "2025-07-27T07:24:31.501Z",
+  "total_images": 8,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-1.jpg",
+      "file_name": "logo-1.jpg",
+      "description": "Image from logo section (fallback naming)",
+      "suggested_usage": "Use in logo section",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/content-2.jpg",
+      "file_name": "content-2.jpg",
+      "description": "Image from content section (fallback naming)",
+      "suggested_usage": "Use in content section",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/content-3.jpg",
+      "file_name": "content-3.jpg",
+      "description": "Image from content section (fallback naming)",
+      "suggested_usage": "Use in content section",
+      "size_bytes": 558411
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/forpsi-errors/images/fondo_testo.gif",
+      "file_path": "public/images/content-5.jpg",
+      "file_name": "content-5.jpg",
+      "description": "Image from content section (fallback naming)",
+      "suggested_usage": "Use in content section",
+      "size_bytes": 1992
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/forpsi-errors/images/ff-ico_esclamativo.gif",
+      "file_path": "public/images/content-6.jpg",
+      "file_name": "content-6.jpg",
+      "description": "Image from content section (fallback naming)",
+      "suggested_usage": "Use in content section",
+      "size_bytes": 3074
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/forpsi-errors/images/f-ang_esclamativo_dx.gif",
+      "file_path": "public/images/content-7.jpg",
+      "file_name": "content-7.jpg",
+      "description": "Image from content section (fallback naming)",
+      "suggested_usage": "Use in content section",
+      "size_bytes": 1753
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/forpsi-errors/images/top_fondo.gif",
+      "file_path": "public/images/content-8.jpg",
+      "file_name": "content-8.jpg",
+      "description": "Image from content section (fallback naming)",
+      "suggested_usage": "Use in content section",
+      "size_bytes": 408
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/forpsi-errors/images/bottom_fondo.gif",
+      "file_path": "public/images/content-9.jpg",
+      "file_name": "content-9.jpg",
+      "description": "Image from content section (fallback naming)",
+      "suggested_usage": "Use in content section",
+      "size_bytes": 359
+    }
+  ]
+}
